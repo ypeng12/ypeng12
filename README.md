@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-I'm a **Python developer** 🐍 and **Quantitative AI explorer** 📈<br />
+I'm an **aspiring Software Engineer** 💻 and **Quant AI explorer** 📈<br />
 I created this GitHub profile to build projects, learn continuously, and do what I love.<br />
 I’ll be happy to receive any **feedback** or **code reviews** that can help me improve 💪<br />
 
