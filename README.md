@@ -17,7 +17,7 @@ I’ll be happy to receive any **feedback** or **code reviews** that can help me
 
 Thank you for visiting my page ❤️
 
-P.S. I [followed]) your profile because your project caught my interest.<br />
+P.S. I followed your profile because your project caught my interest.<br />
 I really appreciate your work - it helps me discover something new. Thanks for that too.<br />
 
 [HuggingFace](https://huggingface.co/Ypeng12) &nbsp;|&nbsp; [GitHub](https://github.com/ypeng12) &nbsp;|&nbsp; [Email](mailto:pengyuliang31@gmail.com)
